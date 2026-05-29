@@ -1,5 +1,0 @@
-Place your screenshots in this directory.
-1. Database created
-2. Tables created
-3. Inserted records
-4. Query outputs
